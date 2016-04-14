@@ -78,6 +78,19 @@ ModelImporter:
     4300020: SketchUp.002
     4300022: SketchUp.001
     4300024: SketchUp
+    6400000: SketchUp
+    6400002: SketchUp.001
+    6400004: SketchUp.002
+    6400006: SketchUp.003
+    6400008: SketchUp.004
+    6400010: SketchUp.005
+    6400012: SketchUp.006
+    6400014: SketchUp.007
+    6400016: SketchUp.008
+    6400018: SketchUp.009
+    6400020: SketchUp.010
+    6400022: SketchUp.011
+    6400024: SketchUp.012
   materials:
     importMaterials: 1
     materialName: 0
@@ -104,7 +117,7 @@ ModelImporter:
     lODScreenPercentages: []
     globalScale: 2
     meshCompression: 3
-    addColliders: 0
+    addColliders: 1
     importBlendShapes: 1
     swapUVChannels: 0
     generateSecondaryUV: 0

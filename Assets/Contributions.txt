@@ -11,12 +11,26 @@ http://slodive.com/freebies/glass-texture/
 
 milkyway2 texture
 http://www.jiroolcott.com/blog/
+
+robot face
+http://www.e-zicom.com/aspirateur-robot-e-ziclean-furtiv-179.html
 =========================================================================================
 OBJECTS
 
-ARGO ASTRONAUTIX Deep Space Traveller 02 of 06- B deck +shuttles
-ARGO INDUSTRIES
-https://3dwarehouse.sketchup.com/model.html?id=8534943b71d7a356b0b01ada6277d2b6
+Borg Sphere
+by Mike
+Sketchup 3D Warehouse
+3dwarehouse.sketchup.com/model.html?id=753c5951904871cfb8843fcd7cb75433
+
+X-Tie Fighter
+by General Lee
+Sketchup 3D Warehouse
+https://3dwarehouse.sketchup.com/model.html?id=68c651637cbd2350ca7be136df4e10
+
+TIE Wing
+StrWrs1w/4rc
+Sketchup 3D Warehouse
+https://3dwarehouse.sketchup.com/model.html?id=51264691f21f948197243303680284cb
 
 Celing Lamp Fixture
 by Benahead
@@ -45,3 +59,7 @@ from http://soundbible.com/1754-Rigid-Dark-Pulse.html
 spooky_60sScifi_Loop
 by Affordable Audio 4 Everyone
 from Unity Asset Store
+
+metal clang
+by battlestar10
+http://soundbible.com/1781-Metal-Clang.html
